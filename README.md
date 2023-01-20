@@ -2,6 +2,7 @@
 This repo is an excerpt of my work from the original project as the project itself has a lot of proprietary technology from Vancouver Film School
 
 **ORIGINAL DATE OF COMPLETION**: October 13, 2022
+**Development Time**: 4 Months
 
 ## **HIGH CONCEPT**
 
